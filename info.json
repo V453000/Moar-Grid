@@ -1,0 +1,11 @@
+{
+  "name": "Moar-Grid",
+  "version": "0.3.0",
+  "factorio_version": "0.17",
+  "title": "Moar-Grid",
+  "author": "V453000",
+  "contact": "",
+  "homepage": "",
+  "description": "Bigger Power Armor Mk2 grid without adding extra entities or recipes.",
+  "dependencies": ["base"]
+}
